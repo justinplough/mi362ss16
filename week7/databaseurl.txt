@@ -1,1 +1,3 @@
+Not sure which one you wanted when I initially set it up. 
 postgres://rhlvxqkcqmwshd:p3vsRsL4o_sC9meqFnYZZeLBVh@ec2-54-227-246-11.compute-1.amazonaws.com:5432/d79a961mpi1grv
+http://protected-caverns-20699.herokuapp.com/db
