@@ -1,0 +1,41 @@
+
+header {
+    background-color:#18453B;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+nav {
+    line-height:30px;
+    background-color:#18453B;
+    color:white;
+    height:300px;
+    width:120px;
+    float:left;
+    padding:5px;
+}
+section {
+    width:650px;
+    float:left;
+    padding:10px;
+    color:#18453B;
+}
+footer {
+    background-color:#18453B;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+a {
+  color: white;
+}
+body {
+	width: 850px;
+	margin: 1.5em auto;
+	border-color: #18453B;
+	border-style: solid;
+	border-width: 20px;
+	border-radius: 40px;
+	padding: 30px;
+}

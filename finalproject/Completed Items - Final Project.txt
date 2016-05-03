@@ -1,0 +1,17 @@
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammar, overall project polish) 
+100 - Hosted on Heroku (Required)
+	- I used the static node like we had previously done in the class.
+100 - Custom domain name (Required)
+	- I used FreeDNS and the subdomain option. 
+300 - 4 complete HTML pages with content
+	- I incorporated the text heavy index.html, the 
+	  accompanying input and domesticinput along with the FAQs page.
+200 - Custom CSS or Bootstrap for design (all pages)
+	- I used custom CSS to create the frames for each page. The colors are Broad College brand approved. 
+100 - Use a Heroku button install (https://elements.heroku.com/buttons)
+	- Rocket.Chat was used as a possible live chat option to the constant emails that come to the unit. 
+50 - Integrate non-Heroku 3rd party widget
+	- I integrated the Twitter follow button. It currently leads to my personal twitter (Follow me!) 
+	  because I have not gotten permission to use Broad College's Twitter. We do not have one for UAS.
+50 - Use a 3rd party font icon like FontAwesome
+	- FontAwesome was used as the icons for each individual page and the chat as well. 
